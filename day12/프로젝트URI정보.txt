@@ -1,0 +1,5 @@
+기능					URI						Controller												JSP(view)
+전체게시글조회			/board/list.do			kr.ac.kopo.controller.BoardListController				/board/list.jsp
+새글등록폼				/board/writeForm.do		kr.ac.kopo.controller.BoardWriteFormController			/board/writeForm.jsp
+새글등록				/board/write.do			kr.ac.kopo.controller.BoardWriteController				/board/write.jsp
+상세게시글조회			/board/detail.do/		kr.ac.kopo.controller.BoardDetailController				/board/detail.jsp
